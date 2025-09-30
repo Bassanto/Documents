@@ -77,7 +77,7 @@ plt.show()
 
 
 ### Insight
-s 
+
 
 - Python is a versatile skill, highly demanded across all three roles, but most prominently for Data Scientists(72%) and Data Engineers (65%).
 - SQL is the most requested skill for Data Analyst and Data Scientists, with it in over half the job postings for both roles. For Data Engineer, Python is the most sought-after skill, appearing in 68% of the job postings
@@ -107,9 +107,8 @@ ax.yaxis.set_major_formatter(PercentFormatter())
 plt.show()
 ~~~
 ### Result
-
-![Trending<img width="580" height="455" alt="Screenshot 2025-09-30 190852" src="https://github.com/user-attachments/assets/fc7aeada-7168-4c00-b692-0c394aec31f6" />
- Top Skills for Data Analysts in the US](images\skill_trend.png)
+<img width="580" height="455" alt="Screenshot 2025-09-30 190852" src="https://github.com/user-attachments/assets/fc7aeada-7168-4c00-b692-0c394aec31f6" />
+ 
 
 ### Insights
 
@@ -132,7 +131,6 @@ plt.show()
 ~~~
 
 ### Result
-![Salary Distributions of Data Jobs in the US](images\salary_analysis_boxchart.png)
 <img width="712" height="445" alt="Screenshot 2025-09-30 190659" src="https://github.com/user-attachments/assets/17a8543e-9c79-4b5a-8388-05f8fc85e347" />
 
 ### Insights
@@ -154,8 +152,8 @@ sns.barplot(data = df_DA_skills,x = "median" ,y = df_DA_skills.index, ax =ax[1],
 plt.show()
 ~~~
 #### Result
-![The Highest Paid and Most In-Demand Skills for Data Analysts in the US]<img width="619" height="472" alt="Screenshot 2025-09-30 190935" src="https://github.com/user-attachments/assets/8698b71d-d96a-4042-b0bb-482d09ac36d8" />
-(images\salary_analysis_barh.png)
+<img width="619" height="472" alt="Screenshot 2025-09-30 190935" src="https://github.com/user-attachments/assets/8698b71d-d96a-4042-b0bb-482d09ac36d8" />
+
 
 #### Insights:
 
@@ -193,8 +191,8 @@ adjust_text(texts,arrowprops=dict(arrowstyle="<-",color = "gray"),
   )   
   ~~~
   #### Result
-![Most op<img width="592" height="443" alt="Screenshot 2025-09-30 190500" src="https://github.com/user-attachments/assets/d5f7ec41-b139-4cd6-85db-7361f63df8ac" />
-timal skill for Data Analysts in the US](images\Most_optimal_skill.png)
+<img width="592" height="443" alt="Screenshot 2025-09-30 190500" src="https://github.com/user-attachments/assets/d5f7ec41-b139-4cd6-85db-7361f63df8ac" />
+
 
 #### Insights
 
